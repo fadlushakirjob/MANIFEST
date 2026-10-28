@@ -13,12 +13,12 @@
 ## Physical Boutiques & Network
 
 * **Mukkam Flagship Store**: Calicut Road (Opposite Star Hotel / Mall of Mukkam), Kozhikode District, Kerala — 673602
-* **Manjeri Boutique Outlet**: Court Road / Main Market, Malappuram District, Kerala — 676121
+* **Manjeri Boutique Outlet**: Thurakkal Baputty Bypass Rd, Thurakkal, Manjeri, Keralam — 676121
 * **Private WhatsApp VIP Communities**: Direct access to limited garment drops, restock reservations, and priority counter holds for Mukkam and Manjeri patrons.
 * **Official Instagram Channels**:
   * [@manifest_fashion.in](https://www.instagram.com/manifest_fashion.in) — Core campaigns & lookbooks
   * [@manifest_mukkam](https://www.instagram.com/manifest_mukkam) — Calicut Road daily arrivals & try-ons
-  * [@manifest_manjeri](https://www.instagram.com/manifest_manjeri) — Court Road outlet daily drops & streetwear edits
+  * [@manifest_manjeri](https://www.instagram.com/manifest_manjeri) — Thurakkal outlet daily drops & streetwear edits
   * [@manifest_wedding](https://www.instagram.com/manifest_wedding) — Ceremonial wear, bespoke suits & festive kurtas
 
 ---
