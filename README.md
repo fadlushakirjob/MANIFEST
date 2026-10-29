@@ -33,7 +33,7 @@
   * **Segmented Boutique Switcher**: iOS-style segmented toggle to switch between *All Boutiques*, *Mukkam Flagship*, and *Manjeri Outlet*.
   * **Horizontal Snap Touch Carousel**: Horizontal swipe rail for official Instagram channels with animated swipe guidance.
   * **Live Hours Status**: Live operational pulse indicators with direct one-tap WhatsApp store lines and Google Maps coordinates.
-* **Accessibility & SEO**: Semantic HTML5, structured Open Graph meta tags, descriptive ARIA attributes, and zero-framework performance.
+* **Accessibility & SEO**: Complete Schema.org JSON-LD Local Business & Organization structured data, XML sitemap (`sitemap.xml`), crawler directives (`robots.txt`), Open Graph & Twitter Cards, and geo-targeted indexing for Kerala search terms (*manifest fashion, manifest wedding, manifest manjeri, manifest mukkam, groom rentals, groom fits, groom custom, dress code*).
 
 ---
 
