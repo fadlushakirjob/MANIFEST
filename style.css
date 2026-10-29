@@ -624,14 +624,14 @@ button {
     max-width: var(--container-max);
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2.5rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.8rem;
 }
 
 .store-box {
     background: #ffffff;
     border: 1px solid var(--color-border-hairline);
-    padding: 2.5rem 2.2rem;
+    padding: 2.2rem 1.6rem;
     display: flex;
     flex-direction: column;
     transition: var(--transition-smooth);
@@ -673,9 +673,9 @@ button {
 }
 
 .store-title {
-    font-size: 1.6rem;
+    font-size: 1.42rem;
     font-weight: 700;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
     margin-bottom: 2rem;
 }
@@ -689,8 +689,8 @@ button {
 
 .data-row {
     display: grid;
-    grid-template-columns: 130px 1fr;
-    gap: 1rem;
+    grid-template-columns: 105px 1fr;
+    gap: 0.85rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid var(--color-border-hairline);
 }
@@ -1791,26 +1791,26 @@ button {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        gap: 0.25rem;
+        gap: 0.2rem;
         background: #f1f0ec;
         border: 1px solid var(--color-border-hairline);
         padding: 0.25rem;
         border-radius: 999px;
         margin: 1.5rem auto 0;
         width: 100%;
-        max-width: 360px;
+        max-width: 440px;
         box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.04);
     }
 
     .store-tab-btn {
         flex: 1 1 0;
-        padding: 0.55rem 0.4rem;
+        padding: 0.55rem 0.25rem;
         border: none;
         background: transparent;
         color: var(--color-text-muted);
-        font-size: 0.62rem;
+        font-size: clamp(0.55rem, 2.2vw, 0.62rem);
         font-weight: 700;
-        letter-spacing: 0.1em;
+        letter-spacing: 0.06em;
         text-transform: uppercase;
         border-radius: 999px;
         cursor: pointer;
@@ -2240,8 +2240,9 @@ button {
     }
 
     .store-tab-btn {
-        padding: 0.45rem 0.8rem;
-        font-size: 0.6rem;
+        padding: 0.45rem 0.2rem;
+        font-size: 0.54rem;
+        letter-spacing: 0.04em;
     }
 
     .bottom-bar-item {

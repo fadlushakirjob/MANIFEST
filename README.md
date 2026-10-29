@@ -14,6 +14,7 @@
 
 * **Mukkam Flagship Store**: Calicut Road (Opposite Star Hotel / Mall of Mukkam), Kozhikode District, Kerala — 673602
 * **Manjeri Boutique Outlet**: Thurakkal Baputty Bypass Rd, Thurakkal, Manjeri, Keralam — 676121
+* **Manifest Wedding**: Thurakkal Baputty Bypass Rd, Thurakkal, Manjeri, Keralam — 676121 (Tel: +91 75930 47793) — Premium men's wedding customization, rentals & ceremonial collections
 * **Private WhatsApp VIP Communities**: Direct access to limited garment drops, restock reservations, and priority counter holds for Mukkam and Manjeri patrons.
 * **Official Instagram Channels**:
   * [@manifest_fashion.in](https://www.instagram.com/manifest_fashion.in) — Core campaigns & lookbooks
